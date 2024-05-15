@@ -1,0 +1,6 @@
+projectKey=micro
+serverUrl=http://localhost:9099/sonarqube
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9099/sonarqube/dashboard?id=micro
+ceTaskId=c2e7e1ff-df7a-4882-bdfd-67bf0e43ed98
+ceTaskUrl=http://localhost:9099/sonarqube/api/ce/task?id=c2e7e1ff-df7a-4882-bdfd-67bf0e43ed98
